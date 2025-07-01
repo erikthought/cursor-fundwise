@@ -49,8 +49,8 @@ A modern, AI-powered financial advisory web application built with Next.js 14, T
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd fundwise-cursor
+git clone https://github.com/erikthought/cursor-fundwise.git
+cd cursor-fundwise
 ```
 
 2. Install dependencies
@@ -68,7 +68,7 @@ npm run dev
 ## Project Structure
 
 ```
-fundwise-cursor/
+cursor-fundwise/
 ├── app/                    # Next.js 14 app directory
 │   ├── dashboard/         # Dashboard page
 │   ├── globals.css        # Global styles
@@ -162,4 +162,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For questions or support, please open an issue in the repository. 
+For questions or support, please open an issue in the repository.
